@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Daniela 👋
 
-<!--
-**d-schmitt/d-schmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm based at Lake Constance (Bodensee), Germany, and work at [GitHub](https://github.com). With a background in data science, I've had a long-standing interest in AI. At GitHub, I want to help people build better software together, through AI and the tools, practices, and collaboration that GitHub enables.
 
-Here are some ideas to get you started:
+## What I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI-powered and agentic software development
+- ✨ Developer experience, productivity, and enablement
+- 🚴 Road cycling and hiking
+- 🐍 Python, data science, analysis, and forecasting
+- 📚 Reading across genres, especially science fiction, memoirs, business and psychology
+
+## Connect
+
+The best way to follow my work is either on [GitHub](https://github.com/d-schmitt) or on [LinkedIn](https://www.linkedin.com/in/danielaschmitt).

@@ -7,8 +7,8 @@ I'm based at Lake Constance (Bodensee), Germany, and work at [GitHub](https://gi
 - 🤖 AI-powered and agentic software development
 - ✨ Developer experience, productivity, and enablement
 - 🚴 Road cycling and hiking
-- 🐍 Python, data science, analysis, and forecasting
-- 📚 Reading across genres, especially science fiction, memoirs, business and psychology
+- 🐍 Python, data science, analysis and forecasting
+- 📚 Reading across genres, especially science fiction and memoirs
 
 ## Connect
 
